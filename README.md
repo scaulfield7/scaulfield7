@@ -20,4 +20,6 @@ Ideas:
 ### Primary Technical Skills
 Java, Spring, Node.js, Python
 
-[![Sarah Caulfield's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scaulfield7&show_icons=true&theme=transparent&hide=issues&title_color=ffffff&text_color=848D97&icon_color=848D97&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sarah Caulfield's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scaulfield7&show_icons=true&theme=transparent&hide=issues&title_color=ffffff&text_color=848D97&icon_color=848D97&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Sarah Caulfield's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scaulfield7&show_icons=true&theme=transparent&hide=issues&title_color=000000&text_color=848D97&icon_color=848D97&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
