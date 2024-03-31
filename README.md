@@ -3,7 +3,6 @@
 Ideas:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - ⚡ Fun fact: ...
 - 😄 Pronouns: she/her
 -->
@@ -16,6 +15,8 @@ Ideas:
 - 👀 I'm interested in climate tech, sustainable software development, green IT and AI.
 - 🌱 I’m primarily focussed on learning more Java at the moment, and improving my back-end and full-stack development skills.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/scaulfield7)
+- 💬 Ask me about anything [here](https://github.com/scaulfield7/scaulfield7/issues).
+
 
 ### Primary Technical Skills
 Java, Spring, Node.js, Python
