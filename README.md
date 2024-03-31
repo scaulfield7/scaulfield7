@@ -22,4 +22,4 @@ Java, Spring, Node.js, Python
 
 [![Sarah Caulfield's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scaulfield7&theme=transparent&show_icons=true&title_color=ffffff&text_color=848D97&icon_color=848D97&include_all_commits=true&hide=issues&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Sarah Caulfield's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scaulfield7&theme=transparent&show_icons=true&title_color=000000&text_color=848D97&icon_color=848D97&include_all_commits=true&hide=issues&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Sarah Caulfield's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scaulfield7&theme=transparent&show_icons=true&title_color=000001&text_color=848D97&icon_color=848D97&include_all_commits=true&hide=issues&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
