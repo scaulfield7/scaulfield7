@@ -21,10 +21,14 @@ Ideas:
 ### Primary Technical Skills
 Java, Spring, Node.js, Python
 
-[![Sarah Caulfield's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scaulfield7&theme=transparent&show_icons=true&title_color=ffffff&text_color=848D97&icon_color=848D97&include_all_commits=true&hide=issues&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<br>
 
-[![Sarah Caulfield's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scaulfield7&theme=transparent&show_icons=true&title_color=000001&text_color=848D97&icon_color=848D97&include_all_commits=true&hide=issues&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<!-- GitHub stats to show only in dark themes -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" height=165px width=49% src="https://github-readme-stats.vercel.app/api?username=scaulfield7&theme=transparent&show_icons=true&title_color=ffffff&text_color=848D97&icon_color=848D97&include_all_commits=true&hide=issues&hide_rank=true" alt="Sarah's GitHub stats" /></a>
+&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" height=165px width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=scaulfield7&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.5&hide=scss&title_color=ffffff&text_color=848D97&icon_color=848D97" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scaulfield7&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.5&hide=scss&title_color=ffffff&text_color=848D97&icon_color=848D97)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scaulfield7&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.5&hide=scss&title_color=000000&text_color=848D97&icon_color=848D97)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<!-- GitHub stats to show only in light themes -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" height=165px width=49% src="https://github-readme-stats.vercel.app/api?username=scaulfield7&theme=transparent&show_icons=true&title_color=000000&text_color=848D97&icon_color=848D97&include_all_commits=true&hide=issues&hide_rank=true" alt="Sarah's GitHub stats" /></a>
+&nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" height=165px width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=scaulfield7&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.5&hide=scss&title_color=000000&text_color=848D97&icon_color=848D97" /></a>
