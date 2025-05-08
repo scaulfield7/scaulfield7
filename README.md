@@ -9,7 +9,7 @@ Ideas:
 
 ## Hi, I'm Sarah. 👋
 
-<b>Welcome to my GitHub.</b>
+<b>Welcome to my GitHub.</b> &nbsp; ![](https://komarev.com/ghpvc/?username=scaulfield7&color=yellow&style=pixel) <!-- Visit https://komarev.com/ghpvc/?username=scaulfield7 to view stats -->
 
 - 🔭 I’m currently working full-time as a software developer at [SAP](https://www.sap.com), since May 2021, and work on some personal projects when I can
 - 👀 I'm interested in climate tech, sustainable software development, green IT and AI
