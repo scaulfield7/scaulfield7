@@ -1,11 +1,4 @@
-<!--
-✨ This README appears on your GitHub profile. ✨
-Ideas:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
-- 😄 Pronouns: she/her
--->
+<!-- README displayed on GitHub profile as a landing page to introduce myself. -->
 
 ## Hi, I'm Sarah. 👋
 
