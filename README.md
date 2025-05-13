@@ -8,7 +8,7 @@
 - ☁️ In my work at [SAP](https://www.sap.com), I have mainly done development on [SAP Analytics Cloud](https://help.sap.com/docs/SAP_ANALYTICS_CLOUD?locale=en-US), the [Data Export Service](https://api.sap.com/api/DataExport_API/overview) and the [Data Import Service](https://api.sap.com/api/DataImport_API/overview)
 - 👀 I'm interested in climate tech, sustainable software development, green IT and AI
 - 🌱 I’m mostly focussed on learning more Java at the moment, and improving my back-end and full-stack development skills
-- ✉️ To get in touch, you can reach out to me on [LinkedIn](https://www.linkedin.com/in/scaulfield7)
+- ✉️ To get in touch, you can reach out on [LinkedIn](https://www.linkedin.com/in/scaulfield7)
 - 💬 Ask me about anything [here](https://github.com/scaulfield7/scaulfield7/issues)
 
 
