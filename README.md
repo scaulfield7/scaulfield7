@@ -14,7 +14,7 @@ Ideas:
 - 🔭 I’m currently working full-time as a software developer at [SAP](https://www.sap.com), since May 2021, and work on some personal projects when I can
 - 👀 I'm interested in climate tech, sustainable software development, green IT and AI
 - 🌱 I’m primarily focussed on learning more Java at the moment, and improving my back-end and full-stack development skills
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/scaulfield7)
+- 📫 To get in touch, you can reach out to me on [LinkedIn](https://www.linkedin.com/in/scaulfield7)
 - 💬 Ask me about anything [here](https://github.com/scaulfield7/scaulfield7/issues)
 
 
