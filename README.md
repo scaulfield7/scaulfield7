@@ -5,7 +5,7 @@
 <b>Welcome to my GitHub profile.</b> &nbsp; ![](https://komarev.com/ghpvc/?username=scaulfield7&color=yellow&style=pixel) <!-- Visit https://komarev.com/ghpvc/?username=scaulfield7 to view stats (hidden on landing page) -->
 
 - 💻 I’m currently working full-time as a software developer at [SAP](https://www.sap.com), since May 2021, and work on some personal projects when I can
-- ☁️ In my work at [SAP](https://www.sap.com), I have mostly done development on [SAP Analytics Cloud](https://help.sap.com/docs/SAP_ANALYTICS_CLOUD?locale=en-US), the [Data Export Service](https://api.sap.com/api/DataExport_API/overview) and the [Data Import Service](https://api.sap.com/api/DataImport_API/overview)
+- ☁️ In my work at [SAP](https://www.sap.com), I have mainly done development on [SAP Analytics Cloud](https://help.sap.com/docs/SAP_ANALYTICS_CLOUD?locale=en-US), the [Data Export Service](https://api.sap.com/api/DataExport_API/overview) and the [Data Import Service](https://api.sap.com/api/DataImport_API/overview)
 - 👀 I'm interested in climate tech, sustainable software development, green IT and AI
 - 🌱 I’m primarily focussed on learning more Java at the moment, and improving my back-end and full-stack development skills
 - ✉️ To get in touch, you can reach out to me on [LinkedIn](https://www.linkedin.com/in/scaulfield7)
