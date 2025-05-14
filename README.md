@@ -1,20 +1,14 @@
-<!--
-✨ This README appears on your GitHub profile. ✨
-Ideas:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
-- 😄 Pronouns: she/her
--->
+<!-- README displayed on GitHub profile as a landing page to introduce myself. -->
 
 ## Hi, I'm Sarah. 👋
 
-<b>Welcome to my GitHub.</b> &nbsp; ![](https://komarev.com/ghpvc/?username=scaulfield7&color=yellow&style=pixel) <!-- Visit https://komarev.com/ghpvc/?username=scaulfield7 to view stats -->
+<b>Welcome to my GitHub.</b> &nbsp; ![](https://komarev.com/ghpvc/?username=scaulfield7&color=yellow&style=pixel) <!-- Visit https://komarev.com/ghpvc/?username=scaulfield7 to view stats (hidden on landing page) -->
 
-- 🔭 I’m currently working full-time as a software developer at [SAP](https://www.sap.com), since May 2021, and work on some personal projects when I can
+- 💻 I’m currently working full-time as a software developer at [SAP](https://www.sap.com), since May 2021, and work on some personal projects when I can
+- ☁️ In my work at [SAP](https://www.sap.com), I have mainly done development on [SAP Analytics Cloud](https://help.sap.com/docs/SAP_ANALYTICS_CLOUD?locale=en-US), the [Data Export Service](https://api.sap.com/api/DataExport_API/overview) and the [Data Import Service](https://api.sap.com/api/DataImport_API/overview)
 - 👀 I'm interested in climate tech, sustainable software development, green IT and AI
-- 🌱 I’m primarily focussed on learning more Java at the moment, and improving my back-end and full-stack development skills
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/scaulfield7)
+- 🌱 I’m mostly focussed on learning more Java at the moment, and improving my back-end and full-stack development skills
+- ✉️ To get in touch, you can reach out on [LinkedIn](https://www.linkedin.com/in/scaulfield7)
 - 💬 Ask me about anything [here](https://github.com/scaulfield7/scaulfield7/issues)
 
 
