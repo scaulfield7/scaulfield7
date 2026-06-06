@@ -6,7 +6,7 @@
 
 &nbsp;💻 I’m currently working full-time as a software developer at [SAP](https://www.sap.com), since May 2021, and work on some personal projects when I can
 <br>
-&nbsp;☁️ In my work at [SAP](https://www.sap.com), I have mainly done development on [SAP Analytics Cloud](https://help.sap.com/docs/SAP_ANALYTICS_CLOUD?locale=en-US), the [Data Export Service](https://api.sap.com/api/DataExport_API/overview) and the [Data Import Service](https://api.sap.com/api/DataImport_API/overview)
+&nbsp;☁️ In my work at [SAP](https://www.sap.com), I have mainly done development on the already-existing [SAP Analytics Cloud](https://help.sap.com/docs/SAP_ANALYTICS_CLOUD?locale=en-US) platform, and the [Data Export Service](https://api.sap.com/api/DataExport_API/overview) and [Data Import Service](https://api.sap.com/api/DataImport_API/overview) APIs, which our team built from scratch
 <br>
 &nbsp;👀 I'm interested in climate tech, sustainable software development, green IT and AI
 <br>
